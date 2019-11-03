@@ -1,8 +1,8 @@
-@PhpTravels
-Feature: Php Travels
+@CaseOpacPolinema
+Feature: Case Opac Polinema
 
-    @Homepage
-    Scenario: Homepage
+    @OpacPolinema
+    Scenario: OpacPolinema
         Given open the website
         Then user click info perpustakaan
         Then user click kembali
